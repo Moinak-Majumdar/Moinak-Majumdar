@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on react,tailwind,php or firebase
 - 📫 just an email moinak2000@gmail.com
 
+<h1>My projects</h1>
+
 <h3>-> wather app 1.0 : https://moinak-majumdar.github.io/React-weather/
     <br><br>
     -> place and weather info (PWA) : https://moinak-geoground.netlify.app/ </h3>
