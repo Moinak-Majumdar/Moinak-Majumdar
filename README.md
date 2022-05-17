@@ -2,7 +2,7 @@
 - 👀 I loved learning tech, 1st goal FULLSTACK 2nd goal MERN.
 - 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on react,tailwind,php or firebase
-- 📫 just an email moinak2000@gmail.com
+- 📫 just an email <a href='mailto:moinak2000@gmail.com'>moinak2000@gmail.com</a>
 
 <h1>My projects</h1>
 
