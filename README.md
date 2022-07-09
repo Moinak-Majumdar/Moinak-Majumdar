@@ -17,7 +17,7 @@
     <br><br>
     -> E-commerce restaurant (PWA) : <a href='https://lifoodie-dev.web.app/' target='_blank'>LiFoodie</a>
      <br><br>
-    -> Criminal Record Management System (Bsc final year project) : <a href='https://criminal-dev.000webhostapp.com/' target='_blank'>Criminal-dev</a>
+    -> Criminal Record Management System (Bsc final year project) : <a href='https://criminal-dev.rf.gd/' target='_blank'>Criminal-dev</a>
 </h3>
 <hr/>
 <h3 align="left">Connect with me:</h3>
