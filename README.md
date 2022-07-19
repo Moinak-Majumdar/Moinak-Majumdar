@@ -34,11 +34,6 @@
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moinak-majumdar&show_icons=true&locale=en&layout=compact" alt="moinak-majumdar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moinak-majumdar&show_icons=true&locale=en" alt="moinak-majumdar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moinak-majumdar&" alt="moinak-majumdar" /></p>
-
-![](https://github-readme-stats.vercel.app/api?username=moinak-majumdar&show_icons=true&theme=light)|
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moinak-majumdar&hide_border=true&ring=3DA7FF&fire=3DA7FF&currStreakLabel=17B5C2)](https://git.io/streak-stats)|
-|---|---|
+![](https://github-readme-stats.vercel.app/api?username=moinak-majumdar&show_icons=true&theme=light)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moinak-majumdar&hide_border=true&ring=3DA7FF&fire=3DA7FF&currStreakLabel=17B5C2)](https://git.io/streak-stats)
 
