@@ -41,7 +41,7 @@
     <img src='https://img.shields.io/badge/tailwindcss-22d3ee?style=for-the-badge&logo=tailwindcss&logoColor=white'/>
     <img src='https://img.shields.io/badge/firebase-ffa611?style=for-the-badge&logo=firebase&logoColor=white'/>
     <img src='https://img.shields.io/badge/vite-ec28fa?style=for-the-badge&logo=vite&logoColor=white'/>
-    <img src='https://img.shields.io/badge/node-68A063?style=for-the-badge&logo=node&logoColor=white'/>
+    <img src='https://img.shields.io/badge/node-68A063?style=for-the-badge&logo=nodejs&logoColor=white'/>
 
 </p>
 <hr/>
