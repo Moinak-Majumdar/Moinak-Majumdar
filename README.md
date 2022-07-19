@@ -1,3 +1,5 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C5622AQEdqHl5xs1WJA/feedshare-shrink_2048_1536/0/1643093280193?e=2147483647&v=beta&t=Nl495XFTzM7YwSHZyVvf66mHk9e4uGLKirqE8W5AHxw)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Moinak Majumdar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
