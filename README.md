@@ -1,6 +1,7 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5622AQEdqHl5xs1WJA/feedshare-shrink_2048_1536/0/1643093280193?e=2147483647&v=beta&t=Nl495XFTzM7YwSHZyVvf66mHk9e4uGLKirqE8W5AHxw)](https://rishavchanda.io)
-
-# <h2 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"> I am Moinak Majumdar </h2>
+<p align="center">
+   <img src="https://media-exp1.licdn.com/dms/image/C5622AQEdqHl5xs1WJA/feedshare-shrink_2048_1536/0/1643093280193?e=2147483647&v=beta&t=Nl495XFTzM7YwSHZyVvf66mHk9e4uGLKirqE8W5AHxw"/>
+</p>
+<h2 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"> I am Moinak Majumdar </h2>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinak-majumdar&label=Profile%20views&color=0e75b6&style=flat" alt="moinak-majumdar" /> </p>
@@ -27,6 +28,11 @@
 <a href="https://twitter.com/moinak005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moinak005" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/moinak-majumdar-b7a85b238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moinak majumdar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/moinak.majumdar.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moinak majumdar" height="30" width="40" /></a>
+    <br/>
+    <br/>
+    <a href="mailto:moinak2000@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,11 +43,11 @@
     <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white'/>
     <img src='https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white'/>
     <img src='https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=white'/>
-    <img src='https://img.shields.io/badge/nextjs-00000F?style=for-the-badge&logo=nextjs&logoColor=white'/>
+    <img src='https://img.shields.io/badge/next%20js-00000F?style=for-the-badge&logo=nextjs&logoColor=white'/>
     <img src='https://img.shields.io/badge/tailwindcss-22d3ee?style=for-the-badge&logo=tailwindcss&logoColor=white'/>
     <img src='https://img.shields.io/badge/firebase-ffa611?style=for-the-badge&logo=firebase&logoColor=white'/>
     <img src='https://img.shields.io/badge/vite-ec28fa?style=for-the-badge&logo=vite&logoColor=white'/>
-    <img src='https://img.shields.io/badge/nodejs-68A063?style=for-the-badge&logo=nodejs&logoColor=white'/>
+    <img src='https://img.shields.io/badge/node%20js-68A063?style=for-the-badge&logo=nodejs&logoColor=white'/>
 
 </p>
 <hr/>
