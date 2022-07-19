@@ -37,7 +37,7 @@
     <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white'/>
     <img src='https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white'/>
     <img src='https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=white'/>
-    <img src='https://img.shields.io/badge/next-00000F?style=for-the-badge&logo=next&logoColor=white'/>
+    <img src='https://img.shields.io/badge/nextjs-00000F?style=for-the-badge&logo=nextjs&logoColor=white'/>
 
 </p>
 <hr/>
