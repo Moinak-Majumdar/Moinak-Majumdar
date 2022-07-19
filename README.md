@@ -1,6 +1,6 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C5622AQEdqHl5xs1WJA/feedshare-shrink_2048_1536/0/1643093280193?e=2147483647&v=beta&t=Nl495XFTzM7YwSHZyVvf66mHk9e4uGLKirqE8W5AHxw)](https://rishavchanda.io)
 
-# <strong>Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"> <h1 align="center">I am Moinak Majumdar.</h1> </strong>
+# <strong align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"> I am Moinak Majumdar </strong>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinak-majumdar&label=Profile%20views&color=0e75b6&style=flat" alt="moinak-majumdar" /> </p>
