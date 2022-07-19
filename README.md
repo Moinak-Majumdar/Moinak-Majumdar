@@ -38,7 +38,7 @@
     <img src='https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white'/>
     <img src='https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=white'/>
     <img src='https://img.shields.io/badge/nextjs-00000F?style=for-the-badge&logo=nextjs&logoColor=white'/>
-    <img src='https://img.shields.io/badge/tailwincss-22d3ee?style=for-the-badge&logo=tailwincss&logoColor=white'/>
+    <img src='https://img.shields.io/badge/tailwindcss-22d3ee?style=for-the-badge&logo=tailwindcss&logoColor=white'/>
     <img src='https://img.shields.io/badge/firebase-ffa611?style=for-the-badge&logo=firebase&logoColor=white'/>
 
 </p>
