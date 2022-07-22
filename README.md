@@ -39,12 +39,12 @@
 <p>
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
     <img src='https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white'/>
-    <img src='https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white'/>
-    <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white'/>
-    <img src='https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white'/>
-    <img src='https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=white'/>
+    <img src='https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=black'/>
+    <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black'/>
+    <img src='https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black'/>
+    <img src='https://img.shields.io/badge/react%20js-61DBFB?style=for-the-badge&logo=react&logoColor=black'/>
     <img src='https://img.shields.io/badge/next%20js-00000F?style=for-the-badge&logo=nextjs&logoColor=white'/>
-    <img src='https://img.shields.io/badge/tailwindcss-22d3ee?style=for-the-badge&logo=tailwindcss&logoColor=white'/>
+    <img src='https://img.shields.io/badge/tailwindcss-22d3ee?style=for-the-badge&logo=tailwindcss&logoColor=black'/>
     <img src='https://img.shields.io/badge/firebase-ffa611?style=for-the-badge&logo=firebase&logoColor=white'/>
     <img src='https://img.shields.io/badge/vite-ec28fa?style=for-the-badge&logo=vite&logoColor=white'/>
     <img src='https://img.shields.io/badge/node%20js-68A063?style=for-the-badge&logo=nodejs&logoColor=white'/>
