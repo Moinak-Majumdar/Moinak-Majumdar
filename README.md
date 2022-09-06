@@ -20,6 +20,7 @@
     <a href="https://www.linkedin.com/in/moinak-majumdar-b7a85b238/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/moinak005" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://www.facebook.com/moinak.majumdar.9" target="blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+    <a href="mailto:moinak2000@gmail.com" target="blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-d44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 
