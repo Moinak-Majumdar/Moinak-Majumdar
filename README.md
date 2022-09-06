@@ -36,8 +36,8 @@
     <img src='https://img.shields.io/badge/tailwindcss-22d3ee?style=for-the-badge&logo=tailwindcss&logoColor=black'/>
     <img src='https://img.shields.io/badge/firebase-ffa611?style=for-the-badge&logo=firebase&logoColor=white'/>
     <img src='https://img.shields.io/badge/vercel-fffcde?style=for-the-badge&logo=vercel&logoColor=black'/>
-    <img src='https://img.shields.io/badge/Heroku-7673C0?style=for-the-badge&logo=heroku&logoColor=white'/>
-    <img src='https://img.shields.io/badge/Netlify-00b7c7?style=for-the-badge&logo=netlify&logoColor=white'/>
+    <img src='https://img.shields.io/badge/Heroku-7673C0?style=for-the-badge&logo=heroku&logoColor=black'/>
+    <img src='https://img.shields.io/badge/Netlify-00b7c7?style=for-the-badge&logo=netlify&logoColor=black'/>
     <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black'/>
     <img src='https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white'/>
     <img src='https://img.shields.io/badge/NODE%20js-68A063?style=for-the-badge&logo=node&logoColor=white'/>
