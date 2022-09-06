@@ -1,61 +1,54 @@
-<p align="center">
-   <img src="https://media-exp1.licdn.com/dms/image/C5622AQEdqHl5xs1WJA/feedshare-shrink_2048_1536/0/1643093280193?e=2147483647&v=beta&t=Nl495XFTzM7YwSHZyVvf66mHk9e4uGLKirqE8W5AHxw"/>
-</p>
+![preview img](preview.gif)
+
 <h2 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"> I am Moinak Majumdar </h2>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
+## 🚀About Me
+
+- 👨‍💻 I am basically a junior front end developer and also interested in full stack.
+- 😁 I am always open to learn new things and currently learning about Next js.
+- 🥅 2022 Goals: Keep learning and keep contributing
+- ⚡ Fun fact: I love dark theme 🐲
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinak-majumdar&label=Profile%20views&color=0e75b6&style=flat" alt="moinak-majumdar" /> </p>
 
-- 🌱 I’m currently learning **React js, Next js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Moinak-Majumdar](https://github.com/Moinak-Majumdar)
 
-- 📫 How to reach me **moinak2030@gmail.com**
+## Connect with me:     
 
-<h1>My projects</h1>
+<div>
+    <a href="https://www.linkedin.com/in/moinak-majumdar-b7a85b238/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://twitter.com/moinak005" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.facebook.com/moinak.majumdar.9" target="blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</div>
 
-<h3>-> wather app 1.0 : <a href='https://moinak-majumdar.github.io/React-weather/' target='_blank'>WeatherJiJi</a>
-    <br><br>
-    -> place and weather info (PWA) : <a href='https://moinak-geoground.netlify.app/' target='_blank'>GeoGround</a>
-    <br><br>
-    -> E-commerce restaurant (PWA) : <a href='https://lifoodie-dev.web.app/' target='_blank'>LiFoodie</a>
-     <br><br>
-    -> Criminal Record Management System (Bsc final year project) : <a href='https://criminal-dev.rf.gd/' target='_blank'>Criminal-dev</a>
-</h3>
-<hr/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/moinak005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moinak005" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/moinak-majumdar-b7a85b238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moinak majumdar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/moinak.majumdar.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moinak majumdar" height="30" width="40" /></a>
-    <br/>
-    <br/>
-    <a href="mailto:moinak2000@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+## Tech Stack:
 <p>
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
-    <img src='https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white'/>
-    <img src='https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=black'/>
-    <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black'/>
     <img src='https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black'/>
+    <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"/>
     <img src='https://img.shields.io/badge/react%20js-61DBFB?style=for-the-badge&logo=react&logoColor=black'/>
-    <img src='https://img.shields.io/badge/next%20js-00000F?style=for-the-badge&logo=nextjs&logoColor=white'/>
+    <img src='https://img.shields.io/badge/next%20js-00000F?style=for-the-badge&logo=next&logoColor=white'/>
+    <img src='https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white'/>
     <img src='https://img.shields.io/badge/tailwindcss-22d3ee?style=for-the-badge&logo=tailwindcss&logoColor=black'/>
     <img src='https://img.shields.io/badge/firebase-ffa611?style=for-the-badge&logo=firebase&logoColor=white'/>
+    <img src='https://img.shields.io/badge/vercel-000100?style=for-the-badge&logo=vercel&logoColor=white'/>
+    <img src='https://img.shields.io/badge/Heroku-7673C0?style=for-the-badge&logo=heroku&logoColor=white'/>
+    <img src='https://img.shields.io/badge/Netlify-00b7c7?style=for-the-badge&logo=netlify&logoColor=white'/>
+    <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black'/>
+    <img src='https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white'/>
+    <img src='https://img.shields.io/badge/NODE%20js-68A063?style=for-the-badge&logo=node&logoColor=white'/>
+    <img src='https://img.shields.io/badge/express%20js-ffffec?style=for-the-badge&logo=express&logoColor=black'/>
+    <img src='https://img.shields.io/badge/php-787cb5?style=for-the-badge&logo=php&logoColor=white'/>
+    <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'/>
     <img src='https://img.shields.io/badge/vite-ec28fa?style=for-the-badge&logo=vite&logoColor=white'/>
-    <img src='https://img.shields.io/badge/node%20js-68A063?style=for-the-badge&logo=nodejs&logoColor=white'/>
+</p>
 
-</p>
-<hr/>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=moinak-majumdar&show_icons=true&theme=light"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=moinak-majumdar&hide_border=true&ring=3DA7FF&fire=3DA7FF&currStreakLabel=17B5C2"/>
-</p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moinak-majumdar&show_icons=true&locale=en&layout=compact" alt="moinak-majumdar" />
-<br/>
+### GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=moinak-majumdar&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moinak-majumdar&theme=radical&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinak-majumdar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 
