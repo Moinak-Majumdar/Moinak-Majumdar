@@ -8,7 +8,7 @@
 - 👨‍💻 I am basically a junior front end developer and also interested in full stack.
 - 😁 I am always open to learn new things and currently learning about Next js.
 - 🥅 2022 Goals: Keep learning and keep contributing
-- ⚡ Fun fact: I love dark theme 🐲
+- ⚡ Fun fact: Addicted to dark theme 🐲
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinak-majumdar&label=Profile%20views&color=0e75b6&style=flat" alt="moinak-majumdar" /> </p>
 
