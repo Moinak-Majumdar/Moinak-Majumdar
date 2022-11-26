@@ -58,6 +58,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=moinak-majumdar&theme=radical&hide_border=false"/>
 </div>
 
-
-
-
+<br/> <br/>
+![Visitor Count](https://profile-counter.glitch.me/Moinak_majumdar/count.svg)
