@@ -5,7 +5,7 @@
 
 ## 🚀About Me
 
-- 👨‍💻 I am basically a junior front end developer and also interested in full stack.
+- 👨‍💻 I am basically a junior full stack developer and also interested in UI/UX.
 - 😁 I am always open to learn new things and currently learning about Next js.
 - 🥅 2022 Goals: Keep learning and keep contributing
 - ⚡ Fun fact: Addicted to dark theme 🐲
