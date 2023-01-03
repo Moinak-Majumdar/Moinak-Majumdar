@@ -9,7 +9,7 @@
 - 😁 I am always open to learn new things and currently learning about Next js.
 - 🥅 2022 Goals: Keep learning and keep contributing
 - ⚡ Fun fact: Addicted to dark theme 🐲
-- 🔼 Portfolio: <a href='https://moinak05.vercel.app/' target='_blank'>All of my projects is available at</a>
+- 🔼 Portfolio: <a href='https://moinak05.vercel.app/' target='_blank'>All of my projects are available at</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinak-majumdar&label=Profile%20views&color=0e75b6&style=flat" alt="moinak-majumdar" /> </p>
 
