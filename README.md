@@ -27,7 +27,8 @@
 
 
 ## Tech Stack:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinak-majumdar&langs_count=20&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+
+![Moinak's Github stats](https://github-readme-stats-omega-six-40.vercel.app/api/top-langs?username=moinak-majumdar&langs_count=20&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <p>
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
@@ -53,10 +54,10 @@
 
 ### GitHub Stats:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Moinak-Majumdar&bg_color=1a1523&color=40df20&line=7130c0&point=d5ec27&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=moinak-majumdar&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moinak-majumdar&theme=radical&hide_border=false"/>
-</div>
+<br/>
+![Moinak's GitHub stats](https://github-readme-stats-omega-six-40.vercel.app/api?username=moinak-majumdar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![Moinak's Github stats2](https://github-readme-streak-stats.herokuapp.com/?user=moinak-majumdar&theme=radical&hide_border=false)
+
 
 <br/> <br/>
 ![Visitor Count](https://profile-counter.glitch.me/Moinak_majumdar/count.svg)
