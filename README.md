@@ -34,8 +34,9 @@
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
     <img src='https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black'/>
     <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"/>
-    <img src='https://img.shields.io/badge/react%20js-61DBFB?style=for-the-badge&logo=react&logoColor=black'/>
-    <img src='https://img.shields.io/badge/next%20js-00000F?style=for-the-badge&logo=next&logoColor=white'/>
+    <img src='https://img.shields.io/badge/typescript-358ef1?style=for-the-badge&logo=typescript&logoColor=white'/>
+    <img src='https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black'/>
+    <img src='https://img.shields.io/badge/Next-ffffff?style=for-the-badge&logo=Next.js&logoColor=black'/>
     <img src='https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white'/>
     <img src='https://img.shields.io/badge/tailwindcss-22d3ee?style=for-the-badge&logo=tailwindcss&logoColor=black'/>
     <img src='https://img.shields.io/badge/firebase-ffa611?style=for-the-badge&logo=firebase&logoColor=white'/>
@@ -43,8 +44,8 @@
     <img src='https://img.shields.io/badge/Heroku-7673C0?style=for-the-badge&logo=heroku&logoColor=black'/>
     <img src='https://img.shields.io/badge/Netlify-00b7c7?style=for-the-badge&logo=netlify&logoColor=black'/>
     <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black'/>
-    <img src='https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white'/>
-    <img src='https://img.shields.io/badge/NODE%20js-68A063?style=for-the-badge&logo=node&logoColor=white'/>
+    <img src='https://img.shields.io/badge/NPM-ffffff.svg?style=for-the-badge&logo=npm&logoColor=#CB3837'/>
+    <img src='https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=Node.js&logoColor=white'/>
     <img src='https://img.shields.io/badge/express%20js-ffffec?style=for-the-badge&logo=express&logoColor=black'/>
     <img src='https://img.shields.io/badge/php-787cb5?style=for-the-badge&logo=php&logoColor=white'/>
     <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'/>
