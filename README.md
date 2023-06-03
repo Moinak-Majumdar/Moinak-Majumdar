@@ -54,7 +54,7 @@
 
 
 ### GitHub Stats:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Moinak-Majumdar&bg_color=1a1523&color=40df20&line=7130c0&point=d5ec27&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moinak-Majumdar&bg_color=1a1523&color=40df20&line=7130c0&point=d5ec27&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
 ![Moinak's GitHub stats](https://github-readme-stats-omega-six-40.vercel.app/api?username=moinak-majumdar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
