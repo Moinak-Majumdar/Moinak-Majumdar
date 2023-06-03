@@ -32,78 +32,95 @@
 
 <h2 align="center">Language and Tools</h2>
 
-<table width="100">
-<tr align="center">
-    <td width="190" align='center'>
-        <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
-    </td>
-    <td width="190" align="center">
-        <img src='https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white'/>
-    </td>
-    <td width="190" align="center">
-        <img src='https://img.shields.io/badge/tailwindcss-22d3ee?style=for-the-badge&logo=tailwind&logoColor=white'/>
-    </td>
-    <td width="190" align='center'>
-        <img src='https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black'/>
-    </td>
-    <td width="190" align='center'>
-        <img src='https://img.shields.io/badge/typescript-358ef1?style=for-the-badge&logo=typescript&logoColor=white'/>
-    </td>
-</tr>
-<tr>
-    <td width="190" align='center'>
-        <img src='https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black'/>
-    </td>
-    <td width="190" align="center">
-        <img src='https://img.shields.io/badge/Next-ffffff?style=for-the-badge&logo=Next.js&logoColor=black'/>
-    </td>
-    <td width="190" align="center">
-        <img src='https://img.shields.io/badge/NPM-ffffff.svg?style=for-the-badge&logo=npm&logoColor=#CB3837'/>
-    </td>
-    <td width="190" align='center'>
-        <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"/>
-    </td>
-</tr>
-<tr>
-    <td width="190" align="center">
-        <img src='https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=Node.js&logoColor=white'/>
-    </td>
-    <td width="190" align="center">
-        <img src='https://img.shields.io/badge/express%20js-ffffec?style=for-the-badge&logo=express&logoColor=black'/>
-    </td>
-    <td width="190" align="center">
-        <img src='https://img.shields.io/badge/Mongo%20db-47A248?style=for-the-badge&logo=mongodb&logoColor=white'/>
-    </td>
-    <td width="190" align="center">
-    <img src='https://img.shields.io/badge/php-787cb5?style=for-the-badge&logo=php&logoColor=white'/>
-    </td>
-    <td width="190" align="center">
-        <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'/>
-    </td>
-</tr>
-<tr>
-    <td width="190" align="center">
-        <img src='https://img.shields.io/badge/firebase-ffa611?style=for-the-badge&logo=firebase&logoColor=white'/>
-    </td>
-    <td width="190" align="center">
-         <img src='https://img.shields.io/badge/vercel-fffcde?style=for-the-badge&logo=vercel&logoColor=black'/>
-    </td>
-    <td width="190" align="center">
-    <img src='https://img.shields.io/badge/Heroku-7673C0?style=for-the-badge&logo=heroku&logoColor=black'/>
-    </td>
-    <td width="190" align="center">
-    <img src='https://img.shields.io/badge/Netlify-00b7c7?style=for-the-badge&logo=netlify&logoColor=black'/>
-    </td>
-</tr>
-<tr>
-    <td width="190" align="center">
-    <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black'/>
-    </td>
-    <td width="190" align="center">
-    <img src='https://img.shields.io/badge/vite-ec28fa?style=for-the-badge&logo=vite&logoColor=white'/>
-    </td>
-</tr>
-</table>
+ <table width="100">
+        <tr align="center">
+            <td width="190" align='center'>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
+            </td>
+            <td width="190" align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
+            </td>
+            <td width="190" align="center">
+                <img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' />
+            </td>
+            <td width="190" align='center'>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
+            </td>
+            <td width="190" align='center'>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60"/>
+            </td>
+        </tr>
+        <tr>
+            <td width="190" align='center'>
+                <img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg' />
+            </td>
+            <td width="190" align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="60"/>
+            </td>
+            <td width="190" align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60"/>
+            </td>
+            <td width="190" align='center'>
+                <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"/>
+            </td>
+        </tr>
+        <tr>
+            <td width="190" align="center">
+                <img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg' />
+            </td>
+            <td width="190" align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" />
+            </td>
+            <td width="190" align="center">
+                <img src='https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg' />
+            </td>
+            <td width="190" align="center">
+                <img src='https://www.vectorlogo.zone/logos/php/php-ar21.svg' />
+            </td>
+            <td width="190" align="center">
+                <img src='https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg' />
+            </td>
+        </tr>
+        <tr>
+            <td width="190" align="center">
+                <img src='https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg' />
+            </td>
+            <td width="190" align="center">
+                <img src='https://img.shields.io/badge/vercel-fffcde?style=for-the-badge&logo=vercel&logoColor=black' />
+            </td>
+            <td width="190" align="center">
+                <img src='https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg' />
+            </td>
+            <td width="190" align="center">
+                <img src='https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg' />
+            </td>
+        </tr>
+        <tr>
+            <td width="190" align="center">
+                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+            </td>
+            <td width="190" align="center">
+                <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
+            </td>
+            <td width="190" align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="60" />
+            </td>
+        </tr>
+        <tr>
+            <td width="190" align="center">
+                <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+            </td>
+            <td width="190" align="center">
+                <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+            </td>
+            <td width="190" align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" />
+            </td>
+            <td width="190" align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+                    height="60" />
+            </td>
+    </table>
 
 
 ### GitHub Stats:
