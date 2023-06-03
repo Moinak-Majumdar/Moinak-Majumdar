@@ -30,6 +30,14 @@
 
 ![Moinak's Github stats](https://github-readme-stats-omega-six-40.vercel.app/api/top-langs?username=moinak-majumdar&langs_count=20&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## GitHub Stats:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moinak-Majumdar&bg_color=1a1523&color=40df20&line=7130c0&point=d5ec27&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+
+![Moinak's GitHub stats](https://github-readme-stats-omega-six-40.vercel.app/api?username=moinak-majumdar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![Moinak's Github stats2](https://github-readme-streak-stats.herokuapp.com/?user=moinak-majumdar&theme=radical&hide_border=false)
+
+
 <h2 align="center">Language and Tools</h2>
 
  <table width="100">
@@ -121,14 +129,6 @@
                     height="60" />
             </td>
     </table>
-
-
-### GitHub Stats:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moinak-Majumdar&bg_color=1a1523&color=40df20&line=7130c0&point=d5ec27&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br/>
-
-![Moinak's GitHub stats](https://github-readme-stats-omega-six-40.vercel.app/api?username=moinak-majumdar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![Moinak's Github stats2](https://github-readme-streak-stats.herokuapp.com/?user=moinak-majumdar&theme=radical&hide_border=false)
 
 <br/> <br/>
 ![Visitor Count](https://profile-counter.glitch.me/Moinak_majumdar/count.svg)
