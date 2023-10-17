@@ -1,15 +1,15 @@
 ![preview img](preview.gif)
 
 <h2 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"> I am Moinak Majumdar </h2>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate full stack web and Flutter developer from India</h3>
 
 ## 🚀About Me
 
-- 👨‍💻 I am basically a junior full stack developer and also interested in UI/UX.
+- 👨‍💻 I am basically a junior full stack developer and also interested in Mobile app development.
 - 😁 I am always open to learn new things and currently learning about Next js.
 - 🥅 2023 Goals: Keep learning and keep contributing
 - ⚡ Fun fact: Addicted to dark theme 🐲
-- 🔼 Portfolio: <a href='https://moinak05.vercel.app/' target='_blank'>All of my projects are available at</a>
+- ➡️ All Projects: <a href='https://moinak05.vercel.app/' target='_blank'>  Portfolio 🔼 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinak-majumdar&label=Profile%20views&color=0e75b6&style=flat" alt="moinak-majumdar" /> </p>
 
@@ -65,6 +65,9 @@
             <td width="190" align='center'>
                 <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="yarn"/>
             </td>
+            <td width="190" align='center'>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" height="60" />
+            </td>
         </tr>
         <tr>
             <td width="190" align="center">
@@ -96,18 +99,18 @@
             <td width="190" align="center">
                 <img src='https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg' alt="netlify" />
             </td>
-        </tr>
-        <tr>
-            <td width="190" align="center">
+             <td width="190" align="center">
                 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
             </td>
+        </tr>
+<!--         <tr>
             <td width="190" align="center">
                 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" />
             </td>
             <td width="190" align="center">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" height="60" />
             </td>
-        </tr>
+        </tr> -->
         <tr>
             <td width="190" align="center">
                 <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python">
@@ -122,6 +125,10 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
                     height="60" alt="c++" />
             </td>
+            <td width="190" align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" height="60" />
+            </td>
+        </tr>
     </table>
     
 ## GitHub Stats:
