@@ -7,7 +7,7 @@
 
 - 👨‍💻 I am basically a junior full stack developer and also interested in Mobile app development.
 - 😁 I am always open to learn new things and currently learning about Next js.
-- 🥅 2023 Goals: Keep learning and keep contributing
+- 🥅 2024 Goals: Keep learning and keep contributing
 - ⚡ Fun fact: Addicted to dark theme 🐲
 - ➡️ All Projects: <a href='https://moinak05.vercel.app/' target='_blank'>  Portfolio 🔼 </a>
 
